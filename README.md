@@ -1,5 +1,6 @@
 # Django-RCE
-Simple django rce exploitation with leaked SECRET_KEY variable. <br />
+Django RCE exploitation with leaked SECRET_KEY by reforging new cookie.<br />
+you can refo
 # Installation and Usage (python 3)
 ```bash
 git clone https://github.com/IR4N14N/Django-RCE.git
