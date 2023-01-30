@@ -2,7 +2,6 @@
 "settings":[
 	{
 		"SECRET_KEY":"Leaked_SECRET_KEY",
-		"settingsPath":"settings", 
 		"Sites_COOKIE":"THE_SITES_COOKIE"
 	}
 ]
